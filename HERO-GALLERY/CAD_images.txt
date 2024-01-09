@@ -1,0 +1,1 @@
+This folder contains all the images of our HERO robot to give a better look at our design
